@@ -3,7 +3,7 @@
 - 🎹 Lazy musician
 - 👨🏻‍🎓 Undergraduate student of bachelor's degree in psychology
 - 💻 Python and R programmer and data science enthusiast 
-- 📚 Currently learning iOS and mobile Develpment
+- 📚 Currently learning iOS and mobile app development
 - 📫 How to reach me: lucasmigge@gmail.com
 
 
