@@ -24,7 +24,9 @@
   <img align="center" alt="Mig-Xcode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg">
   <img align="right" alt="Mig-pic" height="150" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202211/338224_MPGEOc67.png">
 </div>
+
   
+<!--
   
   ##
  
@@ -33,6 +35,8 @@
   ![Snake animation](https://github.com/miggelucas/miggelucas/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+-->
 
 <!--
 **miggelucas/miggelucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
