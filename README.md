@@ -2,7 +2,8 @@
 
 - 🎹 Lazy musician
 - 👨🏻‍🎓 Undergraduate student of bachelor's degree in psychology
-- 💻 Python and R programmer and data science enthusiast 
+- 💻 Python and R programmer and data science enthusiast
+- 🏅 WWDC 2023 Swift Student Challenge Scholarship Winner
 - 📚 Currently learning iOS and mobile app development
 - 📫 How to reach me: lucasmigge@gmail.com
 
