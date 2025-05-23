@@ -7,15 +7,6 @@
 - 🎹 Lazy musician in spare moments  
 - 📫 Reach me at: lucasmigge@gmail.com
 
----
-### Recent Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miggelucas&theme=xcode" width="100%"/>
-</div>
-
----
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Mig-Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
   <img align="center" alt="Mig-Xcode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg">
